@@ -36,10 +36,3 @@ Ferramenta desenvolvida em **Python** com interface gráfica (**Tkinter**) para 
 - **Logging** – registro de ações e erros  
 
 ---
-
-## 🔹 Como Executar
-
-1. Instale as dependências:
-
-```bash
-pip install beautifulsoup4 requests pandas openpyxl
